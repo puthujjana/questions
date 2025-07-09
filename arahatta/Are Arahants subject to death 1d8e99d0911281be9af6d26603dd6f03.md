@@ -1,4 +1,4 @@
-# Are Arahants subject to death?
+# Whether Arahants are subject to death?
 
 Category: Arahatta
 Sutta References: SN 3.3

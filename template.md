@@ -1,10 +1,15 @@
-# Insert title}
-
-Answer in Brief:
+Question:
 Category:
 Tags:
 Sutta References:
-Date Entered: March 17, 2025
-Review Status: Not started
+Date Entered: [Month] [Day], [Year]
+Last Revised: [Month] [Day], [Year]
+Review Status: Not started <!-- [Not started; Started; Complete] -->
 
-# Full answer format to be determined.
+<!-- Question -->
+<!-- # Whether...? -->
+
+<!-- In Brief -->
+<!-- Yes/No. It is this way. It is not this way. -->
+
+<!-- In Full -->
