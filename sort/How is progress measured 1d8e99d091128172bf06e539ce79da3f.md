@@ -1,7 +1,7 @@
 # How is progress measured?
 
 Answer in Brief: -
- Category: Paṭipadā
+Category: Paṭipadā
 Sutta References: AN 7.49
 Answer: -
 Date Entered: April 1, 2025

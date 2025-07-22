@@ -1,13 +1,14 @@
-# Whether vimutti is identical to Nibbāna?
-
-Answer in Brief: -
- Category: Nibbāna
-Sutta References: -
-Answer: -
-Credence: 50%
+Question: Whether vimutti is identical to Nibbāna?
+Answer in Brief:
+Category: Nibbāna
 Tags: Vimutti
+Sutta References: AN 10.20
+Answer:
 Date Entered: April 3, 2025
-Review Status: In progress
+Last Revised: 7-15-25
+Review Status: Started
+Level: 2
+Priority: 2
 
 **Notes:**
 
